@@ -1,0 +1,584 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Roboto:wght@300;400;500;700;900&amp;display=swap
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://www.rnchospitals.com/
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\index.htm
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/about-us.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/dark-theme.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\dark-theme.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/fancybox.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\fancybox.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/odometer.min.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/assets/css/remixicon.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\remixicon.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.rnchospitals.com/assets/fonts/flaticon8588.eot?ff9b1a8558652b202bc5395acf194565
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\flaticon8588.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.rnchospitals.com/assets/fonts/flaticon8588.svg?ff9b1a8558652b202bc5395acf194565
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\flaticon8588.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rnchospitals.com/assets/fonts/flaticon8588.ttf?ff9b1a8558652b202bc5395acf194565
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\flaticon8588.ttf
+Content Type: font/ttf
+
+Uri: https://www.rnchospitals.com/assets/fonts/flaticon8588.woff2?ff9b1a8558652b202bc5395acf194565
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\flaticon8588.woff2
+Content Type: font/woff2
+
+Uri: https://www.rnchospitals.com/assets/fonts/flaticon8588.woff?ff9b1a8558652b202bc5395acf194565
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\flaticon8588.woff
+Content Type: font/woff
+
+Uri: https://www.rnchospitals.com/assets/fonts/remixicondf6d.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\remixicondf6d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.rnchospitals.com/assets/fonts/remixicondf6d.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\remixicondf6d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.rnchospitals.com/assets/fonts/remixicondf6d.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\remixicondf6d.ttf
+Content Type: font/ttf
+
+Uri: https://www.rnchospitals.com/assets/fonts/remixicondf6d.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\remixicondf6d.woff2
+Content Type: font/woff2
+
+Uri: https://www.rnchospitals.com/assets/fonts/remixicondf6d.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\fonts\remixicondf6d.woff
+Content Type: font/woff
+
+Uri: https://www.rnchospitals.com/assets/img/about/about-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\about-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/about/dr-c-ramesh-neuroscience.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\dr-c-ramesh-neuroscience.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/about/dr-gopi-pulmonology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\dr-gopi-pulmonology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/about/promo-bg-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\promo-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/about/rnc-hospital-chintal.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\rnc-hospital-chintal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/about/rnc-super-speciality-hospital-chintal.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\about\rnc-super-speciality-hospital-chintal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/appointment-bg-1.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\appointment-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/blog/blog-1.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/blog/blog-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/blog/blog-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/blog/blog-4.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/breadcrumb/br-1.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\breadcrumb\br-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/breadcrumb/br-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\breadcrumb\br-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/breadcrumb/br-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\breadcrumb\br-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/breadcrumb/br-4.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\breadcrumb\br-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/breadcrumb/br-5.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\breadcrumb\br-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/counter-bg-1.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\counter-bg-1.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/assets/img/down-arrow.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\down-arrow.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-1.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-4.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-5.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-bg-7.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-bg-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-img-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-img-5.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-img-6.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-img-7.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-shape-1.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-shape-1.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/hero/hero-shape-2.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\hero-shape-2.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/hero/rnc-hospital-01.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\rnc-hospital-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/rnc-hospital-02.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\rnc-hospital-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/hero/rnc-hospital-03.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\hero\rnc-hospital-03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/night.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\night.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/rnc-favicon-01.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\rnc-favicon-01.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/rnc-favicon.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\rnc-favicon.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/rnc-logo-white.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\rnc-logo-white.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/rnc-logo.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\rnc-logo.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-cardiology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-cardiology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-critical-care.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-critical-care.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-gastroenterology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-gastroenterology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-general-medicine.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-general-medicine.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-general-surgery.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-general-surgery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-gynecology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-gynecology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-neuro-surgery.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-neuro-surgery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-neurology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-neurology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-orthopedics.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-orthopedics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-plastic-surgery.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-plastic-surgery.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-pulmonology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-pulmonology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-best-urology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-best-urology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-cardiac-package.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-cardiac-package.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-cardiology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-cardiology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-critical-care.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-critical-care.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-diabetic-package.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-diabetic-package.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-gynecology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-gynecology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-neurology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-neurology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-orthopedics.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-orthopedics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-pulmo-package.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-pulmo-package.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/services/rnc-hospitals-pulmonology.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\services\rnc-hospitals-pulmonology.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/sunny.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\sunny.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-bharavi-chunduri-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-bharavi-chunduri-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-c-ramesh-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-c-ramesh-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-g-navneetha-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-g-navneetha-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-gopi-a-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-gopi-a-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-k-pavan-kumar-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-k-pavan-kumar-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-naveen-reddy-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-naveen-reddy-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-p-krishna-chaitanya-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-p-krishna-chaitanya-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-raghuveer-karne-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-raghuveer-karne-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-srinivas-gundu-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-srinivas-gundu-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-sudhir-davala-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-sudhir-davala-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-swathi-reddy-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-swathi-reddy-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-ujwal-gajula-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-ujwal-gajula-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/team/dr-venkata-reddy-rnc-hospitals.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\team\dr-venkata-reddy-rnc-hospitals.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/testimonials/client-1.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\testimonials\client-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/testimonials/client-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\testimonials\client-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/testimonials/client-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\testimonials\client-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/testimonials/client-4.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\testimonials\client-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/testimonials/client-5.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\testimonials\client-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/rnc-hospitals-01.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\rnc-hospitals-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/rnc-hospitals-02.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\rnc-hospitals-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/wh-bg-2.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\wh-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/wh-img-3.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\wh-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/wh-img-4.jpg
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\wh-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.rnchospitals.com/assets/img/why-choose-us/wh-shape-1.png
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\img\why-choose-us\wh-shape-1.png
+Content Type: image/png
+
+Uri: https://www.rnchospitals.com/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/contact-form-script.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\contact-form-script.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/fancybox.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\fancybox.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/form-validator.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\form-validator.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/odometer.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/assets/js/tweenmax.min.js
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\assets\js\tweenmax.min.js
+Content Type: application/javascript
+
+Uri: https://www.rnchospitals.com/blogs.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\blogs.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/book-an-appointment.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\book-an-appointment.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/cardiology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\cardiology.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/career.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\career.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/contact-us.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/critical-care.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\critical-care.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/gastroenterology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\gastroenterology.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/general-medicine.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\general-medicine.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/general-surgery.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\general-surgery.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/gynecology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\gynecology.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/index.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\index.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/neuro-surgery.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\neuro-surgery.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/neurology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\neurology.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/news-and-media.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\news-and-media.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/orthopedics.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\orthopedics.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/our-doctors.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\our-doctors.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/patient-testimonials.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\patient-testimonials.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/plastic-surgery.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\plastic-surgery.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/pulmonology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\pulmonology.html
+Content Type: text/html
+
+Uri: https://www.rnchospitals.com/urology.html
+File Name: C:\Downloaded Web Sites\www.rnchospitals.com\urology.html
+Content Type: text/html
+
