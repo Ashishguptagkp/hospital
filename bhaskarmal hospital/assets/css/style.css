@@ -7235,7 +7235,7 @@ article {
 }
 
 .footer-wrap .footer-widget .footer-menu li a:hover {
-  color: #126b6e;
+  color: #fff;
 }
 
 .footer-wrap .footer-widget .footer-menu li a:hover:after {
@@ -7281,7 +7281,7 @@ article {
 }
 
 .footer-wrap .footer-widget .contact-info li:hover p, .footer-wrap .footer-widget .contact-info li:hover a {
-  color: #126b6e;
+  color: #fff;
 }
 
 .copyright-text {
